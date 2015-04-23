@@ -14,5 +14,8 @@
     "demo*",
     "gruntFile.js",
     "package.json"
-  ]
+  ],
+  "dependencies": {
+    "utf8": "https://github.com/MindTickle/utf8-for-bower#0.0.1"
+  }
 }
